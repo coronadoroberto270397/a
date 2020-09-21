@@ -1,7 +1,7 @@
 def suma(a,b):
     igual=a+b
-    return
+    return igual
 
-s=int(input("h:",))
-d=int(input("g:",))
-print (suma (s,d))
+a=int(input("h:",))
+b=int(input("g:",))
+print (suma (a,b))
